@@ -1,5 +1,6 @@
 # BigCreator
 A simple class to create EA .BIG files
+
 This is a simple c# class that can create EA .BIG Files.
 
 I needed this for one of my own projects, but there was nothing to use, so I wrote my own. 
